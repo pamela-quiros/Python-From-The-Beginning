@@ -1,0 +1,1 @@
+cmd "/K" C:\Users\ml515pv\Anaconda3\Scripts\activate.bat C:\Users\ml515pv\Anaconda3
